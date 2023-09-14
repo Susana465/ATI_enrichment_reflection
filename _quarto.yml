@@ -1,0 +1,11 @@
+project:
+  type: book
+
+book:
+  title: "Enrichment scheme reflections"
+  author: "Susana Roman Garcia"
+  date: now
+  date-format: long
+  chapters:
+    - index.qmd
+
