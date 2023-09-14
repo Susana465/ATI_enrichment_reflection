@@ -8,4 +8,26 @@ book:
   date-format: long
   chapters:
     - index.qmd
+  repo-url: https://github.com/Susana465/third_year_report
+  downloads: [docx, pdf]
+  page-navigation: true
 
+format:
+  html:
+    code-overflow: wrap
+    theme: pulse
+    mermaid: 
+      theme: forest
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
+  docx:
+    toc: false
+    number-sections: false
+    highlight-style: github

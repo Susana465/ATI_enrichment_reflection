@@ -18,7 +18,8 @@
 
 ## Output directory:
 
-- [`/_book`](/_book/): By default, [quarto book output](https://quarto.org/docs/books/book-output.html) is written to the _book directory of your project, this is where the final rendered [`.pdf`](/_book/3rd-Year-Report.pdf) lives.
+- [`/_book`](/_book/): By default, [quarto book output](https://quarto.org/docs/books/book-output.html) is written to the _book directory of your project. 
+- This book renders a [`.docx`](/_book/Enrichment-scheme-reflections.docx) version and a [`.pdf`](/_book/Enrichment-scheme-reflections.pdf) version, as can be seen in this folder.
 
 # Licence:
 
