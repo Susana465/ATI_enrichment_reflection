@@ -7,7 +7,7 @@
 
 # Quarto:
 
-- This is a report written using a [Quarto book](https://quarto.org/docs/books/). In this case there is only an [`index.qmd`](index.qmdl) where the text is written and a [`_quarto.yml`](_quarto.yml) file which contains the initial configuration of the book.
+- This is a report written using a [Quarto book](https://quarto.org/docs/books/). The [`index.qmd`](index.qmdl) is where the text is written and a [`_quarto.yml`](_quarto.yml) file which contains the initial configuration of the book.
 
 # Licence:
 
