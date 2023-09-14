@@ -1,9 +1,11 @@
 # ATI_enrichment_reflection
-This is a repository where I've shared some reflections on my time as an Enrichment student.
+- This is a repository where I've shared some reflections on my time as an Enrichment student.
 
-Please feel free to re-use this material and credit me through linking this repository.
+- Please feel free to re-use this material and credit me through linking this repository.
 
-Feel free to contact me (s1350728@ed.ac.uk) if you would like to discuss anything regarding the enrichment scheme.
+- Feel free to contact me (s1350728@ed.ac.uk) if you would like to discuss anything regarding the enrichment scheme.
+
+# Licence:
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
