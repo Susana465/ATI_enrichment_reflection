@@ -5,6 +5,10 @@
 
 - Feel free to contact me (s1350728@ed.ac.uk) if you would like to discuss anything regarding the enrichment scheme.
 
+# Quarto:
+
+- This is a report written using a [Quarto book](https://quarto.org/docs/books/). In this case there is only an [`index.qmd`](index.qmdl) where the text is written and a [`_quarto.yml`](_quarto.yml) file which contains the initial configuration of the book.
+
 # Licence:
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
