@@ -7,7 +7,18 @@
 
 # Quarto:
 
-- This is a report written using a [Quarto book](https://quarto.org/docs/books/). The [`index.qmd`](index.qmdl) is where the text is written and a [`_quarto.yml`](_quarto.yml) file which contains the initial configuration of the book.
+- This is a report written using a [Quarto book](https://quarto.org/docs/books/). The components here are:
+
+## YAML files
+
+- The [`_quarto.yml`](_quarto.yml) file contains the initial configuration of the book.
+
+## Markdown file
+- The [`index.qmd`](index.qmdl) is where the text is written
+
+## Output directory:
+
+- [`/_book`](/_book/): By default, [quarto book output](https://quarto.org/docs/books/book-output.html) is written to the _book directory of your project, this is where the final rendered [`.pdf`](/_book/3rd-Year-Report.pdf) lives.
 
 # Licence:
 
