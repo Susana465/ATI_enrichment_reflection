@@ -8,7 +8,7 @@ book:
   date-format: long
   chapters:
     - index.qmd
-  repo-url: https://github.com/Susana465/third_year_report
+  repo-url: https://github.com/Susana465/ATI_enrichment_reflection
   downloads: [docx, pdf]
   page-navigation: true
 
