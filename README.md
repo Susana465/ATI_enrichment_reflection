@@ -3,6 +3,13 @@
 
 - Feel free to contact me (s1350728@ed.ac.uk) if you would like to discuss anything regarding the enrichment scheme.
 
+# How to use:
+- You can directly download the pdf or docx files in the _book output directory.
+
+- Or you can fork this repo and use this report as a template for your own work.
+
+- You can also view it online here: https://susana465.quarto.pub/enrichment-scheme-reflections
+
 # Quarto:
 
 - This is a report written using a [Quarto book](https://quarto.org/docs/books/). The components here are:
@@ -10,6 +17,7 @@
 ## YAML files
 
 - The [`_quarto.yml`](_quarto.yml) file contains the initial configuration of the book.
+- The [`_publish.yml`](_publish.yml) file contains specifications of publishing destination of this work.
 
 ## Markdown file
 - The [`index.qmd`](index.qmdl) is where the text is written
@@ -18,11 +26,6 @@
 
 - [`/_book`](/_book/): By default, [quarto book output](https://quarto.org/docs/books/book-output.html) is written to the _book directory of your project. 
 - This book renders a [`.docx`](/_book/Enrichment-scheme-reflections.docx) version and a [`.pdf`](/_book/Enrichment-scheme-reflections.pdf) version, as can be seen in this folder.
-
-# How to use:
-- You can directly download the pdf or docx files in the _book output directory.
-
-- Or you can fork this repo and use this report as a template for your own work.
 
 # Licence:
 
